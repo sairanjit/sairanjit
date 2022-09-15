@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on **Hyperledger Aries, React Native**
 
+- 🔭 I’m currently learning **Rust**
+
 - 💬 Ask me about **React native,Blockchain, Hyperledger Indy, Hyperledger Aries**
 
 - 📫 How to reach me **sairanjit5@gmail.com**
