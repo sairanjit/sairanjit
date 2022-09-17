@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Hyperledger Aries, React Native**<br>- 🔭 I’m currently learning **Rust**<br>- 💬 Ask me about **React native, Blockchain, Hyperledger Indy, Hyperledger Aries**<br>- 📫 How to reach me **sairanjit5@gmail.com**
+- 🔭 I’m currently working on **Hyperledger Aries, React Native**
+- 🔭 I’m currently learning **Rust**
+- 💬 Ask me about **React native, Blockchain, Hyperledger Indy, Hyperledger Aries**
+- 📫 How to reach me **sairanjit5@gmail.com**
 
 
 ## 🌐 Socials:
