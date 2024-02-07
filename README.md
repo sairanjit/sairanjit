@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/ayanworks/polygon-did-registrar/pull/22) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
-2. 🎉 Merged PR [#5](https://github.com/ayanworks/polygon-schema-manager/pull/5) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
-3. 🎉 Merged PR [#21](https://github.com/ayanworks/polygon-did-registrar/pull/21) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
-4. 🗣 Commented on [#1736](https://github.com/openwallet-foundation/credo-ts/pull/1736#issuecomment-1926793275) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#1736](https://github.com/openwallet-foundation/credo-ts/pull/1736#issuecomment-1924191998) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#168](https://github.com/credebl/adeya-wallet/pull/168) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+2. 💪 Opened PR [#22](https://github.com/ayanworks/polygon-did-registrar/pull/22) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
+3. 🎉 Merged PR [#5](https://github.com/ayanworks/polygon-schema-manager/pull/5) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
+4. 🎉 Merged PR [#21](https://github.com/ayanworks/polygon-did-registrar/pull/21) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
+5. 🗣 Commented on [#1736](https://github.com/openwallet-foundation/credo-ts/pull/1736#issuecomment-1926793275) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
