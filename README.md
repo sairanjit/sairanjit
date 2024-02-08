@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/ayanworks/polygon-did-registrar/pull/23) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
-2. 🎉 Merged PR [#8](https://github.com/ayanworks/polygon-schema-manager/pull/8) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
-3. 💪 Opened PR [#15](https://github.com/ayanworks/afj-polygon-w3c-module/pull/15) in [ayanworks/afj-polygon-w3c-module](https://github.com/ayanworks/afj-polygon-w3c-module)
-4. 💪 Opened PR [#168](https://github.com/credebl/adeya-wallet/pull/168) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-5. 💪 Opened PR [#22](https://github.com/ayanworks/polygon-did-registrar/pull/22) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
+1. 🎉 Merged PR [#23](https://github.com/ayanworks/polygon-did-resolver/pull/23) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
+2. 🎉 Merged PR [#23](https://github.com/ayanworks/polygon-did-registrar/pull/23) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
+3. 🎉 Merged PR [#8](https://github.com/ayanworks/polygon-schema-manager/pull/8) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
+4. 💪 Opened PR [#15](https://github.com/ayanworks/afj-polygon-w3c-module/pull/15) in [ayanworks/afj-polygon-w3c-module](https://github.com/ayanworks/afj-polygon-w3c-module)
+5. 💪 Opened PR [#168](https://github.com/credebl/adeya-wallet/pull/168) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
