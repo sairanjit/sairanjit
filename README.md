@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/ayanworks/afj-polygon-w3c-module/pull/16) in [ayanworks/afj-polygon-w3c-module](https://github.com/ayanworks/afj-polygon-w3c-module)
-2. 🎉 Merged PR [#20](https://github.com/credebl/credebl-aries-oca-bundles/pull/20) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
-3. 💪 Opened PR [#20](https://github.com/credebl/credebl-aries-oca-bundles/pull/20) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
-4. 🎉 Merged PR [#27](https://github.com/ayanworks/polygon-did-registrar/pull/27) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
-5. 🎉 Merged PR [#9](https://github.com/ayanworks/polygon-schema-manager/pull/9) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
+1. 🎉 Merged PR [#16](https://github.com/ayanworks/afj-polygon-w3c-module/pull/16) in [ayanworks/afj-polygon-w3c-module](https://github.com/ayanworks/afj-polygon-w3c-module)
+2. 💪 Opened PR [#16](https://github.com/ayanworks/afj-polygon-w3c-module/pull/16) in [ayanworks/afj-polygon-w3c-module](https://github.com/ayanworks/afj-polygon-w3c-module)
+3. 🎉 Merged PR [#20](https://github.com/credebl/credebl-aries-oca-bundles/pull/20) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
+4. 💪 Opened PR [#20](https://github.com/credebl/credebl-aries-oca-bundles/pull/20) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
+5. 🎉 Merged PR [#27](https://github.com/ayanworks/polygon-did-registrar/pull/27) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
