@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#50](https://github.com/credebl/afj-controller/pull/50) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-2. 🎉 Merged PR [#43](https://github.com/credebl/afj-controller/pull/43) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-3. 🎉 Merged PR [#16](https://github.com/ayanworks/afj-polygon-w3c-module/pull/16) in [ayanworks/afj-polygon-w3c-module](https://github.com/ayanworks/afj-polygon-w3c-module)
-4. 💪 Opened PR [#16](https://github.com/ayanworks/afj-polygon-w3c-module/pull/16) in [ayanworks/afj-polygon-w3c-module](https://github.com/ayanworks/afj-polygon-w3c-module)
-5. 🎉 Merged PR [#20](https://github.com/credebl/credebl-aries-oca-bundles/pull/20) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
+1. 💪 Opened PR [#5](https://github.com/sairanjit/credo-ts-examples/pull/5) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+2. ❌ Closed PR [#50](https://github.com/credebl/afj-controller/pull/50) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+3. 🎉 Merged PR [#43](https://github.com/credebl/afj-controller/pull/43) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+4. 🎉 Merged PR [#16](https://github.com/ayanworks/afj-polygon-w3c-module/pull/16) in [ayanworks/afj-polygon-w3c-module](https://github.com/ayanworks/afj-polygon-w3c-module)
+5. 💪 Opened PR [#16](https://github.com/ayanworks/afj-polygon-w3c-module/pull/16) in [ayanworks/afj-polygon-w3c-module](https://github.com/ayanworks/afj-polygon-w3c-module)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
