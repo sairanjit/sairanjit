@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#53](https://github.com/credebl/afj-controller/pull/53) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-2. 🎉 Merged PR [#56](https://github.com/credebl/afj-controller/pull/56) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-3. 🎉 Merged PR [#1](https://github.com/credebl/mediator-agent/pull/1) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-4. 🎉 Merged PR [#3](https://github.com/credebl/mediator-agent/pull/3) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-5. 🎉 Merged PR [#3](https://github.com/ayanworks/polygon-did-uniresolver-driver/pull/3) in [ayanworks/polygon-did-uniresolver-driver](https://github.com/ayanworks/polygon-did-uniresolver-driver)
+1. 💪 Opened PR [#58](https://github.com/credebl/afj-controller/pull/58) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+2. ❌ Closed PR [#53](https://github.com/credebl/afj-controller/pull/53) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+3. 🎉 Merged PR [#56](https://github.com/credebl/afj-controller/pull/56) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+4. 🎉 Merged PR [#1](https://github.com/credebl/mediator-agent/pull/1) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+5. 🎉 Merged PR [#3](https://github.com/credebl/mediator-agent/pull/3) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
