@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/credebl/afj-controller/pull/63) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-2. 🎉 Merged PR [#5](https://github.com/sairanjit/credo-ts-examples/pull/5) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
-3. 🎉 Merged PR [#62](https://github.com/credebl/afj-controller/pull/62) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-4. 💪 Opened PR [#62](https://github.com/credebl/afj-controller/pull/62) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-5. 🎉 Merged PR [#60](https://github.com/credebl/afj-controller/pull/60) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+1. 🎉 Merged PR [#64](https://github.com/credebl/afj-controller/pull/64) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+2. 🎉 Merged PR [#63](https://github.com/credebl/afj-controller/pull/63) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+3. 🎉 Merged PR [#5](https://github.com/sairanjit/credo-ts-examples/pull/5) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+4. 🎉 Merged PR [#62](https://github.com/credebl/afj-controller/pull/62) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+5. 💪 Opened PR [#62](https://github.com/credebl/afj-controller/pull/62) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
