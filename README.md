@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#64](https://github.com/credebl/afj-controller/pull/64) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-2. 🎉 Merged PR [#63](https://github.com/credebl/afj-controller/pull/63) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-3. 🎉 Merged PR [#5](https://github.com/sairanjit/credo-ts-examples/pull/5) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
-4. 🎉 Merged PR [#62](https://github.com/credebl/afj-controller/pull/62) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-5. 💪 Opened PR [#62](https://github.com/credebl/afj-controller/pull/62) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+1. 💪 Opened PR [#171](https://github.com/credebl/adeya-wallet/pull/171) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+2. ❌ Closed PR [#167](https://github.com/credebl/adeya-wallet/pull/167) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+3. ❌ Closed PR [#169](https://github.com/credebl/adeya-wallet/pull/169) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+4. ❌ Closed PR [#170](https://github.com/credebl/adeya-wallet/pull/170) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+5. 🎉 Merged PR [#64](https://github.com/credebl/afj-controller/pull/64) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
