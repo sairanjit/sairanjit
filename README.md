@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#65](https://github.com/credebl/afj-controller/pull/65) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-2. ❌ Closed PR [#66](https://github.com/credebl/afj-controller/pull/66) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-3. 💪 Opened PR [#67](https://github.com/credebl/afj-controller/pull/67) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-4. 💪 Opened PR [#66](https://github.com/credebl/afj-controller/pull/66) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-5. 💪 Opened PR [#172](https://github.com/credebl/adeya-wallet/pull/172) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+1. ❌ Closed PR [#2](https://github.com/credebl/mediator-agent/pull/2) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+2. ❌ Closed PR [#65](https://github.com/credebl/afj-controller/pull/65) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+3. ❌ Closed PR [#66](https://github.com/credebl/afj-controller/pull/66) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+4. 💪 Opened PR [#67](https://github.com/credebl/afj-controller/pull/67) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+5. 💪 Opened PR [#66](https://github.com/credebl/afj-controller/pull/66) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
