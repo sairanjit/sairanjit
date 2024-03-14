@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/ayanworks/afj-polygon-w3c-module/pull/20) in [ayanworks/afj-polygon-w3c-module](https://github.com/ayanworks/afj-polygon-w3c-module)
-2. 🎉 Merged PR [#77](https://github.com/credebl/afj-controller/pull/77) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-3. 🎉 Merged PR [#76](https://github.com/credebl/afj-controller/pull/76) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-4. 🎉 Merged PR [#74](https://github.com/credebl/afj-controller/pull/74) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
-5. 💪 Opened PR [#22](https://github.com/credebl/adeya-sdk/pull/22) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
+1. 💪 Opened PR [#29](https://github.com/ayanworks/polygon-did-registrar/pull/29) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
+2. 💪 Opened PR [#20](https://github.com/ayanworks/afj-polygon-w3c-module/pull/20) in [ayanworks/afj-polygon-w3c-module](https://github.com/ayanworks/afj-polygon-w3c-module)
+3. 🎉 Merged PR [#77](https://github.com/credebl/afj-controller/pull/77) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+4. 🎉 Merged PR [#76](https://github.com/credebl/afj-controller/pull/76) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
+5. 🎉 Merged PR [#74](https://github.com/credebl/afj-controller/pull/74) in [credebl/afj-controller](https://github.com/credebl/afj-controller)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
