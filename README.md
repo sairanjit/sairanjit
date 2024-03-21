@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/credebl/credebl-aries-oca-bundles/pull/22) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
-2. 💪 Opened PR [#22](https://github.com/credebl/credebl-aries-oca-bundles/pull/22) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
-3. 💪 Opened PR [#21](https://github.com/credebl/credebl-aries-oca-bundles/pull/21) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
-4. 🎉 Merged PR [#5](https://github.com/credebl/verification-templates/pull/5) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
-5. 💪 Opened PR [#5](https://github.com/credebl/verification-templates/pull/5) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
+1. 🎉 Merged PR [#6](https://github.com/credebl/verification-templates/pull/6) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
+2. 💪 Opened PR [#6](https://github.com/credebl/verification-templates/pull/6) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
+3. 🎉 Merged PR [#22](https://github.com/credebl/credebl-aries-oca-bundles/pull/22) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
+4. 💪 Opened PR [#22](https://github.com/credebl/credebl-aries-oca-bundles/pull/22) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
+5. 💪 Opened PR [#21](https://github.com/credebl/credebl-aries-oca-bundles/pull/21) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
