@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6](https://github.com/sairanjit/credo-ts-examples/pull/6) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
-2. ❌ Closed PR [#7](https://github.com/sairanjit/credo-ts-examples/pull/7) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
-3. ❌ Closed PR [#8](https://github.com/sairanjit/credo-ts-examples/pull/8) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
-4. ❌ Closed PR [#9](https://github.com/sairanjit/credo-ts-examples/pull/9) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
-5. ❌ Closed PR [#10](https://github.com/sairanjit/credo-ts-examples/pull/10) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+1. 💪 Opened PR [#3](https://github.com/animo/afj-universal-resolver/pull/3) in [animo/afj-universal-resolver](https://github.com/animo/afj-universal-resolver)
+2. ❌ Closed PR [#6](https://github.com/sairanjit/credo-ts-examples/pull/6) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+3. ❌ Closed PR [#7](https://github.com/sairanjit/credo-ts-examples/pull/7) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+4. ❌ Closed PR [#8](https://github.com/sairanjit/credo-ts-examples/pull/8) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+5. ❌ Closed PR [#9](https://github.com/sairanjit/credo-ts-examples/pull/9) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
