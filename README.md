@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/ayanworks/polygon-did-registrar/pull/30) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
-2. 💪 Opened PR [#23](https://github.com/ayanworks/credo-polygon-w3c-module/pull/23) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
-3. 🎉 Merged PR [#23](https://github.com/credebl/credebl-aries-oca-bundles/pull/23) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
-4. 💪 Opened PR [#23](https://github.com/credebl/credebl-aries-oca-bundles/pull/23) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
-5. 🎉 Merged PR [#6](https://github.com/credebl/verification-templates/pull/6) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
+1. ❌ Closed PR [#6](https://github.com/sairanjit/credo-ts-examples/pull/6) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+2. ❌ Closed PR [#7](https://github.com/sairanjit/credo-ts-examples/pull/7) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+3. ❌ Closed PR [#8](https://github.com/sairanjit/credo-ts-examples/pull/8) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+4. ❌ Closed PR [#9](https://github.com/sairanjit/credo-ts-examples/pull/9) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+5. ❌ Closed PR [#10](https://github.com/sairanjit/credo-ts-examples/pull/10) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
