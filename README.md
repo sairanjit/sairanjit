@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#181](https://github.com/credebl/adeya-wallet/pull/181) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-2. 💪 Opened PR [#179](https://github.com/credebl/adeya-wallet/pull/179) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-3. 🎉 Merged PR [#7](https://github.com/credebl/verification-templates/pull/7) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
-4. 💪 Opened PR [#31](https://github.com/ayanworks/polygon-did-registrar/pull/31) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
-5. 💪 Opened PR [#3](https://github.com/animo/afj-universal-resolver/pull/3) in [animo/afj-universal-resolver](https://github.com/animo/afj-universal-resolver)
+1. 🎉 Merged PR [#182](https://github.com/credebl/adeya-wallet/pull/182) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+2. 🎉 Merged PR [#181](https://github.com/credebl/adeya-wallet/pull/181) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+3. 💪 Opened PR [#179](https://github.com/credebl/adeya-wallet/pull/179) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+4. 🎉 Merged PR [#7](https://github.com/credebl/verification-templates/pull/7) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
+5. 💪 Opened PR [#31](https://github.com/ayanworks/polygon-did-registrar/pull/31) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
