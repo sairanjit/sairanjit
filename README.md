@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/ayanworks/polygon-did-registry-contract/pull/21) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
-2. ❌ Closed PR [#2](https://github.com/sairanjit/afj-askar-wallet-react-native/pull/2) in [sairanjit/afj-askar-wallet-react-native](https://github.com/sairanjit/afj-askar-wallet-react-native)
-3. ❌ Closed PR [#4](https://github.com/sairanjit/afj-askar-wallet-react-native/pull/4) in [sairanjit/afj-askar-wallet-react-native](https://github.com/sairanjit/afj-askar-wallet-react-native)
-4. ❌ Closed PR [#5](https://github.com/sairanjit/afj-askar-wallet-react-native/pull/5) in [sairanjit/afj-askar-wallet-react-native](https://github.com/sairanjit/afj-askar-wallet-react-native)
-5. ❌ Closed PR [#3](https://github.com/sairanjit/afj-askar-wallet-react-native/pull/3) in [sairanjit/afj-askar-wallet-react-native](https://github.com/sairanjit/afj-askar-wallet-react-native)
+1. 🎉 Merged PR [#27](https://github.com/ayanworks/polygon-did-resolver/pull/27) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
+2. ❌ Closed PR [#25](https://github.com/ayanworks/polygon-did-resolver/pull/25) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
+3. 🎉 Merged PR [#26](https://github.com/ayanworks/polygon-did-resolver/pull/26) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
+4. 🎉 Merged PR [#21](https://github.com/ayanworks/polygon-did-registry-contract/pull/21) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
+5. ❌ Closed PR [#2](https://github.com/sairanjit/afj-askar-wallet-react-native/pull/2) in [sairanjit/afj-askar-wallet-react-native](https://github.com/sairanjit/afj-askar-wallet-react-native)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
