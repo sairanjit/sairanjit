@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#95](https://github.com/credebl/credo-controller/pull/95) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-2. 💪 Opened PR [#95](https://github.com/credebl/credo-controller/pull/95) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-3. 🎉 Merged PR [#94](https://github.com/credebl/credo-controller/pull/94) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-4. ❌ Closed PR [#188](https://github.com/credebl/adeya-wallet/pull/188) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-5. 💪 Opened PR [#189](https://github.com/credebl/adeya-wallet/pull/189) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+1. 🎉 Merged PR [#21](https://github.com/ayanworks/polygon-did-registry-contract/pull/21) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
+2. ❌ Closed PR [#2](https://github.com/sairanjit/afj-askar-wallet-react-native/pull/2) in [sairanjit/afj-askar-wallet-react-native](https://github.com/sairanjit/afj-askar-wallet-react-native)
+3. ❌ Closed PR [#4](https://github.com/sairanjit/afj-askar-wallet-react-native/pull/4) in [sairanjit/afj-askar-wallet-react-native](https://github.com/sairanjit/afj-askar-wallet-react-native)
+4. ❌ Closed PR [#5](https://github.com/sairanjit/afj-askar-wallet-react-native/pull/5) in [sairanjit/afj-askar-wallet-react-native](https://github.com/sairanjit/afj-askar-wallet-react-native)
+5. ❌ Closed PR [#3](https://github.com/sairanjit/afj-askar-wallet-react-native/pull/3) in [sairanjit/afj-askar-wallet-react-native](https://github.com/sairanjit/afj-askar-wallet-react-native)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
