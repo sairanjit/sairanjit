@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/ayanworks/polygon-did-registrar/pull/36) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
-2. 🎉 Merged PR [#35](https://github.com/ayanworks/polygon-did-registrar/pull/35) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
-3. 🎉 Merged PR [#17](https://github.com/ayanworks/polygon-schema-manager/pull/17) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
-4. 🎉 Merged PR [#16](https://github.com/ayanworks/polygon-schema-manager/pull/16) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
-5. 🎉 Merged PR [#34](https://github.com/ayanworks/polygon-did-registrar/pull/34) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
+1. ❌ Closed PR [#24](https://github.com/ayanworks/credo-polygon-w3c-module/pull/24) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
+2. ❌ Closed PR [#25](https://github.com/ayanworks/credo-polygon-w3c-module/pull/25) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
+3. ❌ Closed PR [#26](https://github.com/ayanworks/credo-polygon-w3c-module/pull/26) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
+4. ❌ Closed PR [#18](https://github.com/ayanworks/credo-polygon-w3c-module/pull/18) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
+5. ❌ Closed PR [#19](https://github.com/ayanworks/credo-polygon-w3c-module/pull/19) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
