@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#24](https://github.com/ayanworks/credo-polygon-w3c-module/pull/24) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
-2. ❌ Closed PR [#25](https://github.com/ayanworks/credo-polygon-w3c-module/pull/25) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
-3. ❌ Closed PR [#26](https://github.com/ayanworks/credo-polygon-w3c-module/pull/26) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
-4. ❌ Closed PR [#18](https://github.com/ayanworks/credo-polygon-w3c-module/pull/18) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
-5. ❌ Closed PR [#19](https://github.com/ayanworks/credo-polygon-w3c-module/pull/19) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
+1. 🎉 Merged PR [#96](https://github.com/credebl/credo-controller/pull/96) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+2. ❌ Closed PR [#24](https://github.com/ayanworks/credo-polygon-w3c-module/pull/24) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
+3. ❌ Closed PR [#25](https://github.com/ayanworks/credo-polygon-w3c-module/pull/25) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
+4. ❌ Closed PR [#26](https://github.com/ayanworks/credo-polygon-w3c-module/pull/26) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
+5. ❌ Closed PR [#18](https://github.com/ayanworks/credo-polygon-w3c-module/pull/18) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
