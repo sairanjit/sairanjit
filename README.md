@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#107](https://github.com/credebl/credo-controller/pull/107) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-2. 💪 Opened PR [#107](https://github.com/credebl/credo-controller/pull/107) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-3. 💪 Opened PR [#106](https://github.com/credebl/credo-controller/pull/106) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-4. 💪 Opened PR [#25](https://github.com/credebl/adeya-sdk/pull/25) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
-5. 🎉 Merged PR [#682](https://github.com/credebl/platform/pull/682) in [credebl/platform](https://github.com/credebl/platform)
+1. 🎉 Merged PR [#110](https://github.com/credebl/credo-controller/pull/110) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+2. ❌ Closed PR [#107](https://github.com/credebl/credo-controller/pull/107) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+3. 💪 Opened PR [#107](https://github.com/credebl/credo-controller/pull/107) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+4. 💪 Opened PR [#106](https://github.com/credebl/credo-controller/pull/106) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+5. 💪 Opened PR [#25](https://github.com/credebl/adeya-sdk/pull/25) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
