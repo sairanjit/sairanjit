@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/credebl/adeya-sdk/pull/25) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
-2. 🎉 Merged PR [#682](https://github.com/credebl/platform/pull/682) in [credebl/platform](https://github.com/credebl/platform)
-3. 🎉 Merged PR [#98](https://github.com/credebl/credo-controller/pull/98) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-4. 🔒 Closed issue [#62](https://github.com/credebl/adeya-wallet/issues/62) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-5. 🎉 Merged PR [#190](https://github.com/credebl/adeya-wallet/pull/190) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+1. 💪 Opened PR [#106](https://github.com/credebl/credo-controller/pull/106) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+2. 💪 Opened PR [#25](https://github.com/credebl/adeya-sdk/pull/25) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
+3. 🎉 Merged PR [#682](https://github.com/credebl/platform/pull/682) in [credebl/platform](https://github.com/credebl/platform)
+4. 🎉 Merged PR [#98](https://github.com/credebl/credo-controller/pull/98) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+5. 🔒 Closed issue [#62](https://github.com/credebl/adeya-wallet/issues/62) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
