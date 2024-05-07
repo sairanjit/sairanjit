@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/ayanworks/polygon-did-resolver/pull/29) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
-2. ❌ Closed PR [#28](https://github.com/ayanworks/polygon-did-resolver/pull/28) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
-3. 💪 Opened PR [#24](https://github.com/credebl/credebl-aries-oca-bundles/pull/24) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
-4. 🎉 Merged PR [#110](https://github.com/credebl/credo-controller/pull/110) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-5. ❌ Closed PR [#107](https://github.com/credebl/credo-controller/pull/107) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+1. 🎉 Merged PR [#24](https://github.com/ayanworks/polygon-did-registry-contract/pull/24) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
+2. 🎉 Merged PR [#29](https://github.com/ayanworks/polygon-did-resolver/pull/29) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
+3. ❌ Closed PR [#28](https://github.com/ayanworks/polygon-did-resolver/pull/28) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
+4. 💪 Opened PR [#24](https://github.com/credebl/credebl-aries-oca-bundles/pull/24) in [credebl/credebl-aries-oca-bundles](https://github.com/credebl/credebl-aries-oca-bundles)
+5. 🎉 Merged PR [#110](https://github.com/credebl/credo-controller/pull/110) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
