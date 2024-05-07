@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/ayanworks/polygon-did-resolver/pull/30) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
-2. 🎉 Merged PR [#26](https://github.com/ayanworks/polygon-did-registry-contract/pull/26) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
-3. 🎉 Merged PR [#24](https://github.com/ayanworks/polygon-did-registry-contract/pull/24) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
-4. 🎉 Merged PR [#29](https://github.com/ayanworks/polygon-did-resolver/pull/29) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
-5. ❌ Closed PR [#28](https://github.com/ayanworks/polygon-did-resolver/pull/28) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
+1. 🎉 Merged PR [#37](https://github.com/ayanworks/polygon-did-registrar/pull/37) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
+2. 🎉 Merged PR [#30](https://github.com/ayanworks/polygon-did-resolver/pull/30) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
+3. 🎉 Merged PR [#26](https://github.com/ayanworks/polygon-did-registry-contract/pull/26) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
+4. 🎉 Merged PR [#24](https://github.com/ayanworks/polygon-did-registry-contract/pull/24) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
+5. 🎉 Merged PR [#29](https://github.com/ayanworks/polygon-did-resolver/pull/29) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
