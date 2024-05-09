@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/credebl/credo-controller/pull/116) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-2. 🗣 Commented on [#1859](https://github.com/openwallet-foundation/credo-ts/pull/1859#issuecomment-2102061590) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#1858](https://github.com/openwallet-foundation/credo-ts/issues/1858#issuecomment-2100919496) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#115](https://github.com/credebl/credo-controller/pull/115) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-5. ❌ Closed PR [#114](https://github.com/credebl/credo-controller/pull/114) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+1. 🎉 Merged PR [#20](https://github.com/ayanworks/polygon-schema-manager/pull/20) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
+2. 🎉 Merged PR [#116](https://github.com/credebl/credo-controller/pull/116) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+3. 🗣 Commented on [#1859](https://github.com/openwallet-foundation/credo-ts/pull/1859#issuecomment-2102061590) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#1858](https://github.com/openwallet-foundation/credo-ts/issues/1858#issuecomment-2100919496) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#115](https://github.com/credebl/credo-controller/pull/115) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
