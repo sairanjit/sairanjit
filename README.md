@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/credebl/verification-templates/pull/15) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
-2. ❌ Closed PR [#14](https://github.com/credebl/verification-templates/pull/14) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
-3. 💪 Opened PR [#14](https://github.com/credebl/verification-templates/pull/14) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
-4. 💪 Opened PR [#13](https://github.com/credebl/verification-templates/pull/13) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
-5. 💪 Opened PR [#12](https://github.com/credebl/verification-templates/pull/12) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
+1. 💪 Opened PR [#192](https://github.com/credebl/adeya-wallet/pull/192) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+2. 💪 Opened PR [#15](https://github.com/credebl/verification-templates/pull/15) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
+3. ❌ Closed PR [#14](https://github.com/credebl/verification-templates/pull/14) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
+4. 💪 Opened PR [#14](https://github.com/credebl/verification-templates/pull/14) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
+5. 💪 Opened PR [#13](https://github.com/credebl/verification-templates/pull/13) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
