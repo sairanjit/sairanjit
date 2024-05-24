@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1877](https://github.com/openwallet-foundation/credo-ts/issues/1877) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#194](https://github.com/credebl/adeya-wallet/pull/194) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-3. 🎉 Merged PR [#16](https://github.com/credebl/verification-templates/pull/16) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
-4. 💪 Opened PR [#16](https://github.com/credebl/verification-templates/pull/16) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
-5. 🚀 Published release [v1.0.9](https://github.com/credebl/adeya-wallet/releases/tag/v1.0.9) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+1. 🗣 Commented on [#1877](https://github.com/openwallet-foundation/credo-ts/issues/1877#issuecomment-2129201965) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#1877](https://github.com/openwallet-foundation/credo-ts/issues/1877#issuecomment-2129185963) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❗ Opened issue [#1877](https://github.com/openwallet-foundation/credo-ts/issues/1877) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 💪 Opened PR [#194](https://github.com/credebl/adeya-wallet/pull/194) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+5. 🎉 Merged PR [#16](https://github.com/credebl/verification-templates/pull/16) in [credebl/verification-templates](https://github.com/credebl/verification-templates)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
