@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/credebl/adeya-sdk/pull/26) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
-2. 💪 Opened PR [#195](https://github.com/credebl/adeya-wallet/pull/195) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-3. ❌ Closed PR [#4](https://github.com/credebl/mediator-agent/pull/4) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-4. ❌ Closed PR [#5](https://github.com/credebl/mediator-agent/pull/5) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-5. ❗ Opened issue [#302](https://github.com/software-mansion/react-native-ide/issues/302) in [software-mansion/react-native-ide](https://github.com/software-mansion/react-native-ide)
+1. ❌ Closed PR [#7](https://github.com/credebl/mediator-agent/pull/7) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+2. 🎉 Merged PR [#26](https://github.com/credebl/adeya-sdk/pull/26) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
+3. 💪 Opened PR [#26](https://github.com/credebl/adeya-sdk/pull/26) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
+4. 💪 Opened PR [#195](https://github.com/credebl/adeya-wallet/pull/195) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+5. ❌ Closed PR [#4](https://github.com/credebl/mediator-agent/pull/4) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
