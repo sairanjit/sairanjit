@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/credebl/mediator-agent/pull/9) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-2. 💪 Opened PR [#8](https://github.com/credebl/mediator-agent/pull/8) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-3. ❌ Closed PR [#7](https://github.com/credebl/mediator-agent/pull/7) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-4. 🎉 Merged PR [#26](https://github.com/credebl/adeya-sdk/pull/26) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
-5. 💪 Opened PR [#26](https://github.com/credebl/adeya-sdk/pull/26) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
+1. 🎉 Merged PR [#10](https://github.com/credebl/mediator-agent/pull/10) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+2. 💪 Opened PR [#10](https://github.com/credebl/mediator-agent/pull/10) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+3. 💪 Opened PR [#9](https://github.com/credebl/mediator-agent/pull/9) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+4. 💪 Opened PR [#8](https://github.com/credebl/mediator-agent/pull/8) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+5. ❌ Closed PR [#7](https://github.com/credebl/mediator-agent/pull/7) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
