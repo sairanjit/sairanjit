@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/ayanworks/polygon-did-resolver/pull/33) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
-2. 🎉 Merged PR [#32](https://github.com/ayanworks/polygon-did-registry-contract/pull/32) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
-3. 🗣 Commented on [#1877](https://github.com/openwallet-foundation/credo-ts/issues/1877#issuecomment-2133653106) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#11](https://github.com/credebl/mediator-agent/pull/11) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-5. 🎉 Merged PR [#10](https://github.com/credebl/mediator-agent/pull/10) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+1. 🎉 Merged PR [#21](https://github.com/ayanworks/polygon-schema-manager/pull/21) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
+2. 🎉 Merged PR [#33](https://github.com/ayanworks/polygon-did-resolver/pull/33) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
+3. 🎉 Merged PR [#32](https://github.com/ayanworks/polygon-did-registry-contract/pull/32) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
+4. 🗣 Commented on [#1877](https://github.com/openwallet-foundation/credo-ts/issues/1877#issuecomment-2133653106) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#11](https://github.com/credebl/mediator-agent/pull/11) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
