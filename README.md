@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#124](https://github.com/credebl/credo-controller/pull/124) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-2. 💪 Opened PR [#12](https://github.com/credebl/mediator-agent/pull/12) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-3. 💪 Opened PR [#33](https://github.com/ayanworks/credo-polygon-w3c-module/pull/33) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
-4. 🎉 Merged PR [#42](https://github.com/ayanworks/polygon-did-registrar/pull/42) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
-5. 🎉 Merged PR [#22](https://github.com/ayanworks/polygon-schema-manager/pull/22) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
+1. 🎉 Merged PR [#34](https://github.com/ayanworks/polygon-did-resolver/pull/34) in [ayanworks/polygon-did-resolver](https://github.com/ayanworks/polygon-did-resolver)
+2. 🚀 Published release [3.0.0](https://github.com/ayanworks/polygon-did-registry-contract/releases/tag/3.0.0) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
+3. 🎉 Merged PR [#33](https://github.com/ayanworks/polygon-did-registry-contract/pull/33) in [ayanworks/polygon-did-registry-contract](https://github.com/ayanworks/polygon-did-registry-contract)
+4. 🎉 Merged PR [#124](https://github.com/credebl/credo-controller/pull/124) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+5. 💪 Opened PR [#12](https://github.com/credebl/mediator-agent/pull/12) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
