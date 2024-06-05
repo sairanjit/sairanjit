@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/credebl/adeya-sdk/pull/27) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
-2. 💪 Opened PR [#196](https://github.com/credebl/adeya-wallet/pull/196) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-3. 💪 Opened PR [#34](https://github.com/ayanworks/credo-polygon-w3c-module/pull/34) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
-4. 🎉 Merged PR [#43](https://github.com/ayanworks/polygon-did-registrar/pull/43) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
-5. ❌ Closed PR [#10](https://github.com/ayanworks/polygon-schema-manager/pull/10) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
+1. 💪 Opened PR [#197](https://github.com/credebl/adeya-wallet/pull/197) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+2. 💪 Opened PR [#27](https://github.com/credebl/adeya-sdk/pull/27) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
+3. 💪 Opened PR [#196](https://github.com/credebl/adeya-wallet/pull/196) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+4. 💪 Opened PR [#34](https://github.com/ayanworks/credo-polygon-w3c-module/pull/34) in [ayanworks/credo-polygon-w3c-module](https://github.com/ayanworks/credo-polygon-w3c-module)
+5. 🎉 Merged PR [#43](https://github.com/ayanworks/polygon-did-registrar/pull/43) in [ayanworks/polygon-did-registrar](https://github.com/ayanworks/polygon-did-registrar)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
