@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#203](https://github.com/credebl/adeya-wallet/pull/203) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-2. 💪 Opened PR [#16](https://github.com/credebl/mediator-agent/pull/16) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-3. 🗣 Commented on [#202](https://github.com/credebl/adeya-wallet/pull/202#issuecomment-2194641519) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-4. 🎉 Merged PR [#137](https://github.com/credebl/credo-controller/pull/137) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-5. 🎉 Merged PR [#139](https://github.com/credebl/credo-controller/pull/139) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+1. 🎉 Merged PR [#202](https://github.com/credebl/adeya-wallet/pull/202) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+2. 💪 Opened PR [#203](https://github.com/credebl/adeya-wallet/pull/203) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+3. 💪 Opened PR [#16](https://github.com/credebl/mediator-agent/pull/16) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+4. 🗣 Commented on [#202](https://github.com/credebl/adeya-wallet/pull/202#issuecomment-2194641519) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+5. 🎉 Merged PR [#137](https://github.com/credebl/credo-controller/pull/137) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
