@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#191](https://github.com/credebl/credo-controller/pull/191) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-2. 🎉 Merged PR [#190](https://github.com/credebl/credo-controller/pull/190) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-3. 🎉 Merged PR [#179](https://github.com/credebl/credo-controller/pull/179) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-4. 🎉 Merged PR [#177](https://github.com/credebl/credo-controller/pull/177) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
-5. 🗣 Commented on [#2010](https://github.com/openwallet-foundation/credo-ts/issues/2010#issuecomment-2306595395) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. ❌ Reopened PR [#191](https://github.com/credebl/credo-controller/pull/191) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+2. 💪 Opened PR [#192](https://github.com/credebl/credo-controller/pull/192) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+3. ❌ Closed PR [#191](https://github.com/credebl/credo-controller/pull/191) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+4. 💪 Opened PR [#191](https://github.com/credebl/credo-controller/pull/191) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
+5. 🎉 Merged PR [#190](https://github.com/credebl/credo-controller/pull/190) in [credebl/credo-controller](https://github.com/credebl/credo-controller)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
