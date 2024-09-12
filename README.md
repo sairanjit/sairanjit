@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#211](https://github.com/trustoverip/tswg-keri-specification/issues/211) in [trustoverip/tswg-keri-specification](https://github.com/trustoverip/tswg-keri-specification)
-2. 💪 Opened PR [#2026](https://github.com/openwallet-foundation/credo-ts/pull/2026) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🚀 Published release [v1.0.10](https://github.com/credebl/adeya-wallet/releases/tag/v1.0.10) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-4. 💪 Opened PR [#215](https://github.com/credebl/adeya-wallet/pull/215) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-5. ❌ Closed PR [#214](https://github.com/credebl/adeya-wallet/pull/214) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+1. 💪 Opened PR [#213](https://github.com/trustoverip/tswg-keri-specification/pull/213) in [trustoverip/tswg-keri-specification](https://github.com/trustoverip/tswg-keri-specification)
+2. ❌ Closed PR [#212](https://github.com/trustoverip/tswg-keri-specification/pull/212) in [trustoverip/tswg-keri-specification](https://github.com/trustoverip/tswg-keri-specification)
+3. 💪 Opened PR [#212](https://github.com/trustoverip/tswg-keri-specification/pull/212) in [trustoverip/tswg-keri-specification](https://github.com/trustoverip/tswg-keri-specification)
+4. ❗ Opened issue [#211](https://github.com/trustoverip/tswg-keri-specification/issues/211) in [trustoverip/tswg-keri-specification](https://github.com/trustoverip/tswg-keri-specification)
+5. 💪 Opened PR [#2026](https://github.com/openwallet-foundation/credo-ts/pull/2026) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
