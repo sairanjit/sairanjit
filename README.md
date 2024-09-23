@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/serenity-kit/react-native-libsodium/pull/70) in [serenity-kit/react-native-libsodium](https://github.com/serenity-kit/react-native-libsodium)
-2. ❌ Closed PR [#1](https://github.com/sairanjit/react-native-libsodium/pull/1) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
-3. ❌ Reopened PR [#1](https://github.com/sairanjit/react-native-libsodium/pull/1) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
-4. ❌ Closed PR [#1](https://github.com/sairanjit/react-native-libsodium/pull/1) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
-5. 💪 Opened PR [#1](https://github.com/sairanjit/react-native-libsodium/pull/1) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
+1. ❌ Closed PR [#70](https://github.com/serenity-kit/react-native-libsodium/pull/70) in [serenity-kit/react-native-libsodium](https://github.com/serenity-kit/react-native-libsodium)
+2. 💪 Opened PR [#70](https://github.com/serenity-kit/react-native-libsodium/pull/70) in [serenity-kit/react-native-libsodium](https://github.com/serenity-kit/react-native-libsodium)
+3. ❌ Closed PR [#1](https://github.com/sairanjit/react-native-libsodium/pull/1) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
+4. ❌ Reopened PR [#1](https://github.com/sairanjit/react-native-libsodium/pull/1) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
+5. ❌ Closed PR [#1](https://github.com/sairanjit/react-native-libsodium/pull/1) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
