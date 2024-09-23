@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#296](https://github.com/WebOfTrust/keria/pull/296#issuecomment-2367158372) in [WebOfTrust/keria](https://github.com/WebOfTrust/keria)
-2. 💪 Opened PR [#296](https://github.com/WebOfTrust/keria/pull/296) in [WebOfTrust/keria](https://github.com/WebOfTrust/keria)
-3. 🗣 Commented on [#295](https://github.com/WebOfTrust/keria/pull/295#issuecomment-2366843371) in [WebOfTrust/keria](https://github.com/WebOfTrust/keria)
-4. 💪 Opened PR [#295](https://github.com/WebOfTrust/keria/pull/295) in [WebOfTrust/keria](https://github.com/WebOfTrust/keria)
-5. 🗣 Commented on [#454](https://github.com/decentralized-identity/didcomm-messaging/issues/454#issuecomment-2361093120) in [decentralized-identity/didcomm-messaging](https://github.com/decentralized-identity/didcomm-messaging)
+1. 💪 Opened PR [#70](https://github.com/serenity-kit/react-native-libsodium/pull/70) in [serenity-kit/react-native-libsodium](https://github.com/serenity-kit/react-native-libsodium)
+2. ❌ Closed PR [#1](https://github.com/sairanjit/react-native-libsodium/pull/1) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
+3. ❌ Reopened PR [#1](https://github.com/sairanjit/react-native-libsodium/pull/1) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
+4. ❌ Closed PR [#1](https://github.com/sairanjit/react-native-libsodium/pull/1) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
+5. 💪 Opened PR [#1](https://github.com/sairanjit/react-native-libsodium/pull/1) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
