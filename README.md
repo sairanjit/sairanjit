@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#222](https://github.com/credebl/adeya-wallet/pull/222) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-2. 🎉 Merged PR [#221](https://github.com/credebl/adeya-wallet/pull/221) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-3. 🗣 Commented on [#71](https://github.com/serenity-kit/react-native-libsodium/pull/71#issuecomment-2392040886) in [serenity-kit/react-native-libsodium](https://github.com/serenity-kit/react-native-libsodium)
-4. 💪 Opened PR [#2](https://github.com/sairanjit/react-native-libsodium/pull/2) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
-5. ❌ Closed PR [#72](https://github.com/serenity-kit/react-native-libsodium/pull/72) in [serenity-kit/react-native-libsodium](https://github.com/serenity-kit/react-native-libsodium)
+1. ❌ Closed PR [#1](https://github.com/ayanworks/react-native-libsodium/pull/1) in [ayanworks/react-native-libsodium](https://github.com/ayanworks/react-native-libsodium)
+2. 💪 Opened PR [#222](https://github.com/credebl/adeya-wallet/pull/222) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+3. 🎉 Merged PR [#221](https://github.com/credebl/adeya-wallet/pull/221) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+4. 🗣 Commented on [#71](https://github.com/serenity-kit/react-native-libsodium/pull/71#issuecomment-2392040886) in [serenity-kit/react-native-libsodium](https://github.com/serenity-kit/react-native-libsodium)
+5. 💪 Opened PR [#2](https://github.com/sairanjit/react-native-libsodium/pull/2) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
