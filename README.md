@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2026](https://github.com/openwallet-foundation/credo-ts/pull/2026#issuecomment-2405250886) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#220](https://github.com/credebl/adeya-wallet/issues/220#issuecomment-2396174623) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-3. ❌ Reopened PR [#218](https://github.com/credebl/adeya-wallet/pull/218) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-4. 🚀 Published release [v1.0.11](https://github.com/credebl/adeya-wallet/releases/tag/V1.0.11) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-5. ❌ Closed PR [#1](https://github.com/ayanworks/react-native-libsodium/pull/1) in [ayanworks/react-native-libsodium](https://github.com/ayanworks/react-native-libsodium)
+1. 🎉 Merged PR [#223](https://github.com/credebl/adeya-wallet/pull/223) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+2. 🗣 Commented on [#2026](https://github.com/openwallet-foundation/credo-ts/pull/2026#issuecomment-2405250886) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#220](https://github.com/credebl/adeya-wallet/issues/220#issuecomment-2396174623) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+4. ❌ Reopened PR [#218](https://github.com/credebl/adeya-wallet/pull/218) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+5. 🚀 Published release [v1.0.11](https://github.com/credebl/adeya-wallet/releases/tag/V1.0.11) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
