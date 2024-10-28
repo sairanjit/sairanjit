@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#224](https://github.com/credebl/adeya-wallet/pull/224) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-2. 🚀 Published release [v1.0.12](https://github.com/credebl/adeya-wallet/releases/tag/v1.0.12) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-3. 💪 Opened PR [#226](https://github.com/credebl/adeya-wallet/pull/226) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-4. 🎉 Merged PR [#223](https://github.com/credebl/adeya-wallet/pull/223) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-5. 🗣 Commented on [#2026](https://github.com/openwallet-foundation/credo-ts/pull/2026#issuecomment-2405250886) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#225](https://github.com/credebl/adeya-wallet/pull/225) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+2. 🎉 Merged PR [#224](https://github.com/credebl/adeya-wallet/pull/224) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+3. 🚀 Published release [v1.0.12](https://github.com/credebl/adeya-wallet/releases/tag/v1.0.12) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+4. 💪 Opened PR [#226](https://github.com/credebl/adeya-wallet/pull/226) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+5. 🎉 Merged PR [#223](https://github.com/credebl/adeya-wallet/pull/223) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
