@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/credebl/adeya-sdk/pull/40) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
-2. ❌ Closed PR [#2](https://github.com/sairanjit/react-native-libsodium/pull/2) in [sairanjit/react-native-libsodium](https://github.com/sairanjit/react-native-libsodium)
-3. 🎉 Merged PR [#31](https://github.com/credebl/adeya-sdk/pull/31) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
-4. 🗣 Commented on [#218](https://github.com/credebl/adeya-wallet/pull/218#issuecomment-2506125085) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-5. ❌ Closed PR [#218](https://github.com/credebl/adeya-wallet/pull/218) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+1. ❌ Closed PR [#17](https://github.com/sairanjit/credo-ts/pull/17) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+2. ❌ Closed PR [#16](https://github.com/sairanjit/credo-ts/pull/16) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+3. ❌ Closed PR [#15](https://github.com/sairanjit/credo-ts/pull/15) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+4. ❌ Closed PR [#14](https://github.com/sairanjit/credo-ts/pull/14) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+5. ❌ Closed PR [#18](https://github.com/sairanjit/credo-ts/pull/18) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
