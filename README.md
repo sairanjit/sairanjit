@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sairanjit/hedera-credo-module/pull/3) in [sairanjit/hedera-credo-module](https://github.com/sairanjit/hedera-credo-module)
-2. 🎉 Merged PR [#2](https://github.com/sairanjit/hedera-credo-module/pull/2) in [sairanjit/hedera-credo-module](https://github.com/sairanjit/hedera-credo-module)
-3. ❌ Closed PR [#19](https://github.com/sairanjit/credo-ts/pull/19) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
-4. 🎉 Merged PR [#25](https://github.com/ayanworks/polygon-schema-manager/pull/25) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
-5. ❌ Closed PR [#17](https://github.com/sairanjit/credo-ts/pull/17) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+1. ❌ Closed PR [#6](https://github.com/sairanjit/medera-wallet/pull/6) in [sairanjit/medera-wallet](https://github.com/sairanjit/medera-wallet)
+2. 🎉 Merged PR [#3](https://github.com/sairanjit/hedera-credo-module/pull/3) in [sairanjit/hedera-credo-module](https://github.com/sairanjit/hedera-credo-module)
+3. 🎉 Merged PR [#2](https://github.com/sairanjit/hedera-credo-module/pull/2) in [sairanjit/hedera-credo-module](https://github.com/sairanjit/hedera-credo-module)
+4. ❌ Closed PR [#19](https://github.com/sairanjit/credo-ts/pull/19) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+5. 🎉 Merged PR [#25](https://github.com/ayanworks/polygon-schema-manager/pull/25) in [ayanworks/polygon-schema-manager](https://github.com/ayanworks/polygon-schema-manager)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
