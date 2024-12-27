@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/animo/animo-mediator/pull/28) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-2. ❌ Closed PR [#23](https://github.com/credebl/mediator-agent/pull/23) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-3. ❌ Closed PR [#22](https://github.com/credebl/mediator-agent/pull/22) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-4. ❌ Closed PR [#21](https://github.com/credebl/mediator-agent/pull/21) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-5. ❌ Closed PR [#14](https://github.com/credebl/mediator-agent/pull/14) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+1. 🗣 Commented on [#2137](https://github.com/openwallet-foundation/credo-ts/pull/2137#issuecomment-2563757482) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 💪 Opened PR [#28](https://github.com/animo/animo-mediator/pull/28) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
+3. ❌ Closed PR [#23](https://github.com/credebl/mediator-agent/pull/23) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+4. ❌ Closed PR [#22](https://github.com/credebl/mediator-agent/pull/22) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+5. ❌ Closed PR [#21](https://github.com/credebl/mediator-agent/pull/21) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
