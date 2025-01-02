@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2137](https://github.com/openwallet-foundation/credo-ts/pull/2137#issuecomment-2565412021) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#2137](https://github.com/openwallet-foundation/credo-ts/pull/2137#issuecomment-2563757482) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#28](https://github.com/animo/animo-mediator/pull/28) in [animo/animo-mediator](https://github.com/animo/animo-mediator)
-4. ❌ Closed PR [#23](https://github.com/credebl/mediator-agent/pull/23) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-5. ❌ Closed PR [#22](https://github.com/credebl/mediator-agent/pull/22) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+1. ❌ Closed PR [#37](https://github.com/credebl/adeya-sdk/pull/37) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
+2. ❌ Closed PR [#36](https://github.com/credebl/adeya-sdk/pull/36) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
+3. ❌ Closed PR [#35](https://github.com/credebl/adeya-sdk/pull/35) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
+4. ❌ Closed PR [#34](https://github.com/credebl/adeya-sdk/pull/34) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
+5. ❌ Closed PR [#33](https://github.com/credebl/adeya-sdk/pull/33) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
