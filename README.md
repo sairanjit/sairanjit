@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#37](https://github.com/credebl/adeya-sdk/pull/37) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
-2. ❌ Closed PR [#36](https://github.com/credebl/adeya-sdk/pull/36) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
-3. ❌ Closed PR [#35](https://github.com/credebl/adeya-sdk/pull/35) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
-4. ❌ Closed PR [#34](https://github.com/credebl/adeya-sdk/pull/34) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
-5. ❌ Closed PR [#33](https://github.com/credebl/adeya-sdk/pull/33) in [credebl/adeya-sdk](https://github.com/credebl/adeya-sdk)
+1. ❌ Closed PR [#240](https://github.com/credebl/adeya-wallet/pull/240) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+2. ❌ Closed PR [#229](https://github.com/credebl/adeya-wallet/pull/229) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+3. ❌ Closed PR [#219](https://github.com/credebl/adeya-wallet/pull/219) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+4. ❌ Closed PR [#216](https://github.com/credebl/adeya-wallet/pull/216) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+5. ❌ Closed PR [#211](https://github.com/credebl/adeya-wallet/pull/211) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
