@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/38#issuecomment-2599121640) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
-2. 🎉 Merged PR [#250](https://github.com/credebl/adeya-wallet/pull/250) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-3. 🎉 Merged PR [#249](https://github.com/credebl/adeya-wallet/pull/249) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
-4. 🗣 Commented on [#2141](https://github.com/openwallet-foundation/credo-ts/issues/2141#issuecomment-2582290912) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 💪 Opened PR [#248](https://github.com/credebl/adeya-wallet/pull/248) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+1. ❌ Closed PR [#21](https://github.com/sairanjit/credo-ts/pull/21) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+2. ❌ Closed PR [#20](https://github.com/sairanjit/credo-ts/pull/20) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+3. 🗣 Commented on [#38](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/38#issuecomment-2599121640) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+4. 🎉 Merged PR [#250](https://github.com/credebl/adeya-wallet/pull/250) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
+5. 🎉 Merged PR [#249](https://github.com/credebl/adeya-wallet/pull/249) in [credebl/adeya-wallet](https://github.com/credebl/adeya-wallet)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
