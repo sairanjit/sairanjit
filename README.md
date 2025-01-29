@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/9) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
-2. ❌ Closed PR [#8](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/8) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
-3. ❌ Closed PR [#7](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/7) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
-4. ❌ Closed PR [#6](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/6) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
-5. 🗣 Commented on [#2145](https://github.com/openwallet-foundation/credo-ts/issues/2145#issuecomment-2620697117) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 💪 Opened PR [#29](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/29) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+2. 🗣 Commented on [#28](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/28#issuecomment-2621406197) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+3. ❌ Closed PR [#9](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/9) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
+4. ❌ Closed PR [#8](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/8) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
+5. ❌ Closed PR [#7](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/7) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
