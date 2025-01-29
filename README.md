@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2145](https://github.com/openwallet-foundation/credo-ts/issues/2145#issuecomment-2620697117) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#28](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/28#issuecomment-2620667382) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-3. 💪 Opened PR [#2161](https://github.com/openwallet-foundation/credo-ts/pull/2161) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🔒 Closed issue [#324](https://github.com/openwallet-foundation/askar/issues/324) in [openwallet-foundation/askar](https://github.com/openwallet-foundation/askar)
-5. 💪 Opened PR [#28](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/28) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
+1. ❌ Closed PR [#9](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/9) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
+2. ❌ Closed PR [#8](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/8) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
+3. ❌ Closed PR [#7](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/7) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
+4. ❌ Closed PR [#6](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/6) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
+5. 🗣 Commented on [#2145](https://github.com/openwallet-foundation/credo-ts/issues/2145#issuecomment-2620697117) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
