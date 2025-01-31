@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2161](https://github.com/openwallet-foundation/credo-ts/pull/2161#issuecomment-2621452040) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#2161](https://github.com/openwallet-foundation/credo-ts/pull/2161#issuecomment-2621450597) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 💪 Opened PR [#29](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/29) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-4. 🗣 Commented on [#28](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/28#issuecomment-2621406197) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
-5. ❌ Closed PR [#9](https://github.com/sairanjit/credo-askar-wallet-react-native/pull/9) in [sairanjit/credo-askar-wallet-react-native](https://github.com/sairanjit/credo-askar-wallet-react-native)
+1. 🗣 Commented on [#2161](https://github.com/openwallet-foundation/credo-ts/pull/2161#issuecomment-2625096659) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. ❌ Closed PR [#2161](https://github.com/openwallet-foundation/credo-ts/pull/2161) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 🗣 Commented on [#2161](https://github.com/openwallet-foundation/credo-ts/pull/2161#issuecomment-2621452040) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2161](https://github.com/openwallet-foundation/credo-ts/pull/2161#issuecomment-2621450597) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#29](https://github.com/openwallet-foundation/askar-wrapper-javascript/pull/29) in [openwallet-foundation/askar-wrapper-javascript](https://github.com/openwallet-foundation/askar-wrapper-javascript)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
