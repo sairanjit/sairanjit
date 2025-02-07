@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/credebl/governance/pull/14#issuecomment-2637515207) in [credebl/governance](https://github.com/credebl/governance)
-2. 🎉 Merged PR [#14](https://github.com/credebl/governance/pull/14) in [credebl/governance](https://github.com/credebl/governance)
-3. 🗣 Commented on [#14](https://github.com/credebl/governance/pull/14#issuecomment-2637408959) in [credebl/governance](https://github.com/credebl/governance)
-4. 🗣 Commented on [#14](https://github.com/credebl/governance/pull/14#issuecomment-2637303751) in [credebl/governance](https://github.com/credebl/governance)
-5. 💪 Opened PR [#14](https://github.com/credebl/governance/pull/14) in [credebl/governance](https://github.com/credebl/governance)
+1. 💪 Opened PR [#2181](https://github.com/openwallet-foundation/credo-ts/pull/2181) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+2. 🗣 Commented on [#2175](https://github.com/openwallet-foundation/credo-ts/pull/2175#issuecomment-2641955439) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. ❌ Closed PR [#2175](https://github.com/openwallet-foundation/credo-ts/pull/2175) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#14](https://github.com/credebl/governance/pull/14#issuecomment-2637515207) in [credebl/governance](https://github.com/credebl/governance)
+5. 🎉 Merged PR [#14](https://github.com/credebl/governance/pull/14) in [credebl/governance](https://github.com/credebl/governance)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
