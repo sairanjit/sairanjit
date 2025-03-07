@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2210](https://github.com/openwallet-foundation/credo-ts/pull/2210#issuecomment-2692823147) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 💪 Opened PR [#2210](https://github.com/openwallet-foundation/credo-ts/pull/2210) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🗣 Commented on [#2181](https://github.com/openwallet-foundation/credo-ts/pull/2181#issuecomment-2690015884) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 🗣 Commented on [#2181](https://github.com/openwallet-foundation/credo-ts/pull/2181#issuecomment-2680376270) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🎉 Merged PR [#1](https://github.com/Krishnatripathi09/Node-Learnings-Advanced/pull/1) in [Krishnatripathi09/Node-Learnings-Advanced](https://github.com/Krishnatripathi09/Node-Learnings-Advanced)
+1. 💪 Opened PR [#1133](https://github.com/credebl/platform/pull/1133) in [credebl/platform](https://github.com/credebl/platform)
+2. 🗣 Commented on [#2210](https://github.com/openwallet-foundation/credo-ts/pull/2210#issuecomment-2692823147) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+3. 💪 Opened PR [#2210](https://github.com/openwallet-foundation/credo-ts/pull/2210) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+4. 🗣 Commented on [#2181](https://github.com/openwallet-foundation/credo-ts/pull/2181#issuecomment-2690015884) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 🗣 Commented on [#2181](https://github.com/openwallet-foundation/credo-ts/pull/2181#issuecomment-2680376270) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
