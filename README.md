@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#257](https://github.com/credebl/mobile-wallet/pull/257) in [credebl/mobile-wallet](https://github.com/credebl/mobile-wallet)
-2. 💪 Opened PR [#1133](https://github.com/credebl/platform/pull/1133) in [credebl/platform](https://github.com/credebl/platform)
-3. 🗣 Commented on [#2210](https://github.com/openwallet-foundation/credo-ts/pull/2210#issuecomment-2692823147) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-4. 💪 Opened PR [#2210](https://github.com/openwallet-foundation/credo-ts/pull/2210) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. 🗣 Commented on [#2181](https://github.com/openwallet-foundation/credo-ts/pull/2181#issuecomment-2690015884) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+1. 🎉 Merged PR [#261](https://github.com/credebl/mobile-wallet/pull/261) in [credebl/mobile-wallet](https://github.com/credebl/mobile-wallet)
+2. 💪 Opened PR [#257](https://github.com/credebl/mobile-wallet/pull/257) in [credebl/mobile-wallet](https://github.com/credebl/mobile-wallet)
+3. 💪 Opened PR [#1133](https://github.com/credebl/platform/pull/1133) in [credebl/platform](https://github.com/credebl/platform)
+4. 🗣 Commented on [#2210](https://github.com/openwallet-foundation/credo-ts/pull/2210#issuecomment-2692823147) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
+5. 💪 Opened PR [#2210](https://github.com/openwallet-foundation/credo-ts/pull/2210) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
