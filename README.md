@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#50](https://github.com/credebl/mobile-sdk/pull/50) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-2. 💪 Opened PR [#48](https://github.com/credebl/mobile-sdk/pull/48) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-3. 💪 Opened PR [#47](https://github.com/credebl/mobile-sdk/pull/47) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-4. 🎉 Merged PR [#261](https://github.com/credebl/mobile-wallet/pull/261) in [credebl/mobile-wallet](https://github.com/credebl/mobile-wallet)
-5. 💪 Opened PR [#257](https://github.com/credebl/mobile-wallet/pull/257) in [credebl/mobile-wallet](https://github.com/credebl/mobile-wallet)
+1. 💪 Opened PR [#54](https://github.com/credebl/mobile-sdk/pull/54) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+2. 💪 Opened PR [#50](https://github.com/credebl/mobile-sdk/pull/50) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+3. 💪 Opened PR [#48](https://github.com/credebl/mobile-sdk/pull/48) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+4. 💪 Opened PR [#47](https://github.com/credebl/mobile-sdk/pull/47) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+5. 🎉 Merged PR [#261](https://github.com/credebl/mobile-wallet/pull/261) in [credebl/mobile-wallet](https://github.com/credebl/mobile-wallet)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
