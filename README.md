@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1163](https://github.com/credebl/platform/pull/1163) in [credebl/platform](https://github.com/credebl/platform)
-2. 💪 Opened PR [#1163](https://github.com/credebl/platform/pull/1163) in [credebl/platform](https://github.com/credebl/platform)
-3. 🎉 Merged PR [#1135](https://github.com/credebl/platform/pull/1135) in [credebl/platform](https://github.com/credebl/platform)
-4. 🗣 Commented on [#55](https://github.com/credebl/mobile-sdk/issues/55#issuecomment-2761243649) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-5. 🔒 Closed issue [#55](https://github.com/credebl/mobile-sdk/issues/55) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+1. 💪 Opened PR [#1164](https://github.com/credebl/platform/pull/1164) in [credebl/platform](https://github.com/credebl/platform)
+2. 🎉 Merged PR [#1163](https://github.com/credebl/platform/pull/1163) in [credebl/platform](https://github.com/credebl/platform)
+3. 💪 Opened PR [#1163](https://github.com/credebl/platform/pull/1163) in [credebl/platform](https://github.com/credebl/platform)
+4. 🎉 Merged PR [#1135](https://github.com/credebl/platform/pull/1135) in [credebl/platform](https://github.com/credebl/platform)
+5. 🗣 Commented on [#55](https://github.com/credebl/mobile-sdk/issues/55#issuecomment-2761243649) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
