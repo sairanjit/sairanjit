@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1169](https://github.com/credebl/platform/pull/1169) in [credebl/platform](https://github.com/credebl/platform)
-2. 🎉 Merged PR [#1167](https://github.com/credebl/platform/pull/1167) in [credebl/platform](https://github.com/credebl/platform)
-3. 🎉 Merged PR [#1165](https://github.com/credebl/platform/pull/1165) in [credebl/platform](https://github.com/credebl/platform)
-4. 💪 Opened PR [#1167](https://github.com/credebl/platform/pull/1167) in [credebl/platform](https://github.com/credebl/platform)
-5. 💪 Opened PR [#1165](https://github.com/credebl/platform/pull/1165) in [credebl/platform](https://github.com/credebl/platform)
+1. ❌ Closed PR [#746](https://github.com/credebl/platform/pull/746) in [credebl/platform](https://github.com/credebl/platform)
+2. 💪 Opened PR [#1169](https://github.com/credebl/platform/pull/1169) in [credebl/platform](https://github.com/credebl/platform)
+3. 🎉 Merged PR [#1167](https://github.com/credebl/platform/pull/1167) in [credebl/platform](https://github.com/credebl/platform)
+4. 🎉 Merged PR [#1165](https://github.com/credebl/platform/pull/1165) in [credebl/platform](https://github.com/credebl/platform)
+5. 💪 Opened PR [#1167](https://github.com/credebl/platform/pull/1167) in [credebl/platform](https://github.com/credebl/platform)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
