@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1171](https://github.com/credebl/platform/pull/1171) in [credebl/platform](https://github.com/credebl/platform)
-2. 💪 Opened PR [#1221](https://github.com/credebl/platform/pull/1221) in [credebl/platform](https://github.com/credebl/platform)
-3. 🗣 Commented on [#142](https://github.com/spruceid/sprucekit-mobile/issues/142#issuecomment-2847609152) in [spruceid/sprucekit-mobile](https://github.com/spruceid/sprucekit-mobile)
-4. 🔒 Closed issue [#142](https://github.com/spruceid/sprucekit-mobile/issues/142) in [spruceid/sprucekit-mobile](https://github.com/spruceid/sprucekit-mobile)
-5. ❗ Opened issue [#142](https://github.com/spruceid/sprucekit-mobile/issues/142) in [spruceid/sprucekit-mobile](https://github.com/spruceid/sprucekit-mobile)
+1. 💪 Opened PR [#53](https://github.com/openwallet-foundation/didcomm-mediator-credo/pull/53) in [openwallet-foundation/didcomm-mediator-credo](https://github.com/openwallet-foundation/didcomm-mediator-credo)
+2. ❌ Closed PR [#1171](https://github.com/credebl/platform/pull/1171) in [credebl/platform](https://github.com/credebl/platform)
+3. 💪 Opened PR [#1221](https://github.com/credebl/platform/pull/1221) in [credebl/platform](https://github.com/credebl/platform)
+4. 🗣 Commented on [#142](https://github.com/spruceid/sprucekit-mobile/issues/142#issuecomment-2847609152) in [spruceid/sprucekit-mobile](https://github.com/spruceid/sprucekit-mobile)
+5. 🔒 Closed issue [#142](https://github.com/spruceid/sprucekit-mobile/issues/142) in [spruceid/sprucekit-mobile](https://github.com/spruceid/sprucekit-mobile)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
