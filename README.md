@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/credebl/mobile-sdk/pull/58) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-2. 🗣 Commented on [#1253](https://github.com/credebl/platform/issues/1253#issuecomment-2915294792) in [credebl/platform](https://github.com/credebl/platform)
-3. ❗ Opened issue [#60](https://github.com/credebl/mobile-sdk/issues/60) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-4. 💪 Opened PR [#2295](https://github.com/openwallet-foundation/credo-ts/pull/2295) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-5. ❗ Opened issue [#6](https://github.com/GHkrishna/schemas/issues/6) in [GHkrishna/schemas](https://github.com/GHkrishna/schemas)
+1. 🎉 Merged PR [#3](https://github.com/ayanworks/askar-tools-typescript/pull/3) in [ayanworks/askar-tools-typescript](https://github.com/ayanworks/askar-tools-typescript)
+2. 🎉 Merged PR [#2](https://github.com/ayanworks/askar-tools-typescript/pull/2) in [ayanworks/askar-tools-typescript](https://github.com/ayanworks/askar-tools-typescript)
+3. 🎉 Merged PR [#58](https://github.com/credebl/mobile-sdk/pull/58) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+4. 🗣 Commented on [#1253](https://github.com/credebl/platform/issues/1253#issuecomment-2915294792) in [credebl/platform](https://github.com/credebl/platform)
+5. ❗ Opened issue [#60](https://github.com/credebl/mobile-sdk/issues/60) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
