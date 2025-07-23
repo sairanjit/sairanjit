@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/ayanworks/credo-ethr-module/pull/7) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
-2. ❌ Closed PR [#6](https://github.com/ayanworks/credo-ethr-module/pull/6) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
-3. 💪 Opened PR [#6](https://github.com/ayanworks/credo-ethr-module/pull/6) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
-4. 🎉 Merged PR [#4](https://github.com/ayanworks/credo-ethr-module/pull/4) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
-5. ❌ Reopened PR [#4](https://github.com/ayanworks/credo-ethr-module/pull/4) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
+1. 💪 Opened PR [#9](https://github.com/ayanworks/credo-ethr-module/pull/9) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
+2. 💪 Opened PR [#8](https://github.com/ayanworks/credo-ethr-module/pull/8) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
+3. 💪 Opened PR [#7](https://github.com/ayanworks/credo-ethr-module/pull/7) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
+4. ❌ Closed PR [#6](https://github.com/ayanworks/credo-ethr-module/pull/6) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
+5. 💪 Opened PR [#6](https://github.com/ayanworks/credo-ethr-module/pull/6) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
