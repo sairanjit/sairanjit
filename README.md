@@ -4,9 +4,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/Bhutan-NDI/ngotag-agent-controller/pull/24) in [Bhutan-NDI/ngotag-agent-controller](https://github.com/Bhutan-NDI/ngotag-agent-controller)
-2. 🗣 Commented on [#2342](https://github.com/openwallet-foundation/credo-ts/issues/2342#issuecomment-3144561557) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-3. 🎉 Merged PR [#12](https://github.com/ayanworks/credo-ethr-module/pull/12) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
+1. 💪 Opened PR [#19](undefined) in [polkadot-api/tx-tracker-pba-bali](https://github.com/polkadot-api/tx-tracker-pba-bali)
+2. ❌ Assigned PR [#24](undefined) in [Bhutan-NDI/ngotag-agent-controller](https://github.com/Bhutan-NDI/ngotag-agent-controller)
+3. 💪 Opened PR [#24](undefined) in [Bhutan-NDI/ngotag-agent-controller](https://github.com/Bhutan-NDI/ngotag-agent-controller)
 4. 💪 Opened PR [#12](https://github.com/ayanworks/credo-ethr-module/pull/12) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
 5. 🎉 Merged PR [#11](https://github.com/ayanworks/credo-ethr-module/pull/11) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
 <!--END_SECTION:activity-->
