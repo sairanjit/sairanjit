@@ -4,7 +4,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](undefined) in [polkadot-api/tx-tracker-pba-bali](https://github.com/polkadot-api/tx-tracker-pba-bali)
+1. ❗ Opened issue [#64](https://github.com/credebl/mobile-sdk/issues/64) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
 2. ❌ Assigned PR [#24](undefined) in [Bhutan-NDI/ngotag-agent-controller](https://github.com/Bhutan-NDI/ngotag-agent-controller)
 3. 💪 Opened PR [#24](undefined) in [Bhutan-NDI/ngotag-agent-controller](https://github.com/Bhutan-NDI/ngotag-agent-controller)
 4. 💪 Opened PR [#12](https://github.com/ayanworks/credo-ethr-module/pull/12) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
