@@ -4,9 +4,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#6](undefined) in [Bhutan-NDI/ethr-credo-module](https://github.com/Bhutan-NDI/ethr-credo-module)
-2. 💪 Opened PR [#6](undefined) in [Bhutan-NDI/ethr-credo-module](https://github.com/Bhutan-NDI/ethr-credo-module)
-3. 💪 Opened PR [#13](undefined) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
+1. 🗣 Commented on [#6](https://github.com/Bhutan-NDI/ethr-credo-module/pull/6#issuecomment-3601015707) in [Bhutan-NDI/ethr-credo-module](https://github.com/Bhutan-NDI/ethr-credo-module)
+2. ❌ Assigned PR [#6](undefined) in [Bhutan-NDI/ethr-credo-module](https://github.com/Bhutan-NDI/ethr-credo-module)
+3. 💪 Opened PR [#6](undefined) in [Bhutan-NDI/ethr-credo-module](https://github.com/Bhutan-NDI/ethr-credo-module)
 4. 💪 Opened PR [#12](https://github.com/ayanworks/credo-ethr-module/pull/12) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
 5. 🎉 Merged PR [#11](https://github.com/ayanworks/credo-ethr-module/pull/11) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
 <!--END_SECTION:activity-->
