@@ -4,9 +4,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2597](https://github.com/openwallet-foundation/credo-ts/issues/2597#issuecomment-3663562522) in [openwallet-foundation/credo-ts](https://github.com/openwallet-foundation/credo-ts)
-2. 🗣 Commented on [#6](https://github.com/Bhutan-NDI/ethr-credo-module/pull/6#issuecomment-3601015707) in [Bhutan-NDI/ethr-credo-module](https://github.com/Bhutan-NDI/ethr-credo-module)
-3. 💪 Opened PR [#6](undefined) in [Bhutan-NDI/ethr-credo-module](https://github.com/Bhutan-NDI/ethr-credo-module)
+1. 🎉 Merged PR [#69](https://github.com/credebl/mobile-sdk/pull/69) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+2. 💪 Opened PR [#69](https://github.com/credebl/mobile-sdk/pull/69) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+3. 💪 Opened PR [#68](https://github.com/credebl/mobile-sdk/pull/68) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
 4. 💪 Opened PR [#12](https://github.com/ayanworks/credo-ethr-module/pull/12) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
 5. 🎉 Merged PR [#11](https://github.com/ayanworks/credo-ethr-module/pull/11) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
 <!--END_SECTION:activity-->
