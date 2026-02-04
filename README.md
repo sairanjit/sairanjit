@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/credebl/mobile-sdk/pull/69) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-2. 💪 Opened PR [#69](https://github.com/credebl/mobile-sdk/pull/69) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-3. 💪 Opened PR [#68](https://github.com/credebl/mobile-sdk/pull/68) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-4. 💪 Opened PR [#12](https://github.com/ayanworks/credo-ethr-module/pull/12) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
-5. 🎉 Merged PR [#11](https://github.com/ayanworks/credo-ethr-module/pull/11) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
+1. 💪 Opened PR [#3](https://github.com/ayanworks/polygon-did-modules/pull/3) in [ayanworks/polygon-did-modules](https://github.com/ayanworks/polygon-did-modules)
+2. 🎉 Merged PR [#1](https://github.com/ayanworks/polygon-did-modules/pull/1) in [ayanworks/polygon-did-modules](https://github.com/ayanworks/polygon-did-modules)
+3. ℹ️ Assigned PR [#1](https://github.com/ayanworks/polygon-did-modules/pull/1) in [ayanworks/polygon-did-modules](https://github.com/ayanworks/polygon-did-modules)
+4. 💪 Opened PR [#1](https://github.com/ayanworks/polygon-did-modules/pull/1) in [ayanworks/polygon-did-modules](https://github.com/ayanworks/polygon-did-modules)
+5. 🎉 Merged PR [#69](https://github.com/credebl/mobile-sdk/pull/69) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
