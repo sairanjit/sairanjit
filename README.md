@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/sairanjit/yew-sample-app/pull/2) in [sairanjit/yew-sample-app](https://github.com/sairanjit/yew-sample-app)
-2. ❌ Closed PR [#1](https://github.com/sairanjit/yew-sample-app/pull/1) in [sairanjit/yew-sample-app](https://github.com/sairanjit/yew-sample-app)
-3. 🎉 Merged PR [#72](https://github.com/credebl/mobile-sdk/pull/72) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-4. 💪 Opened PR [#72](https://github.com/credebl/mobile-sdk/pull/72) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-5. 🎉 Merged PR [#71](https://github.com/credebl/mobile-sdk/pull/71) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+1. ℹ️ Assigned PR [#73](https://github.com/credebl/mobile-sdk/pull/73) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+2. 💪 Opened PR [#73](https://github.com/credebl/mobile-sdk/pull/73) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+3. ❌ Closed PR [#2](https://github.com/sairanjit/yew-sample-app/pull/2) in [sairanjit/yew-sample-app](https://github.com/sairanjit/yew-sample-app)
+4. ❌ Closed PR [#1](https://github.com/sairanjit/yew-sample-app/pull/1) in [sairanjit/yew-sample-app](https://github.com/sairanjit/yew-sample-app)
+5. 🎉 Merged PR [#72](https://github.com/credebl/mobile-sdk/pull/72) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
