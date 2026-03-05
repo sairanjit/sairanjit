@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/ayanworks/polygon-did-modules/pull/19) in [ayanworks/polygon-did-modules](https://github.com/ayanworks/polygon-did-modules)
-2. ℹ️ Assigned PR [#19](https://github.com/ayanworks/polygon-did-modules/pull/19) in [ayanworks/polygon-did-modules](https://github.com/ayanworks/polygon-did-modules)
-3. 💪 Opened PR [#19](https://github.com/ayanworks/polygon-did-modules/pull/19) in [ayanworks/polygon-did-modules](https://github.com/ayanworks/polygon-did-modules)
-4. 🎉 Merged PR [#73](https://github.com/credebl/mobile-sdk/pull/73) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-5. ℹ️ Assigned PR [#73](https://github.com/credebl/mobile-sdk/pull/73) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+1. ❗ Opened issue [#133](https://github.com/adorsys/status-list-server/issues/133) in [adorsys/status-list-server](https://github.com/adorsys/status-list-server)
+2. 🎉 Merged PR [#19](https://github.com/ayanworks/polygon-did-modules/pull/19) in [ayanworks/polygon-did-modules](https://github.com/ayanworks/polygon-did-modules)
+3. ℹ️ Assigned PR [#19](https://github.com/ayanworks/polygon-did-modules/pull/19) in [ayanworks/polygon-did-modules](https://github.com/ayanworks/polygon-did-modules)
+4. 💪 Opened PR [#19](https://github.com/ayanworks/polygon-did-modules/pull/19) in [ayanworks/polygon-did-modules](https://github.com/ayanworks/polygon-did-modules)
+5. 🎉 Merged PR [#73](https://github.com/credebl/mobile-sdk/pull/73) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
