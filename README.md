@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/credebl/mobile-sdk/pull/74) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-2. ℹ️ Assigned PR [#74](https://github.com/credebl/mobile-sdk/pull/74) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-3. 💪 Opened PR [#74](https://github.com/credebl/mobile-sdk/pull/74) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-4. 💪 Opened PR [#19](https://github.com/ayanworks/polygon-did-modules/pull/19) in [ayanworks/polygon-did-modules](https://github.com/ayanworks/polygon-did-modules)
-5. 🎉 Merged PR [#73](https://github.com/credebl/mobile-sdk/pull/73) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+1. ❌ Closed PR [#31](https://github.com/sairanjit/credo-ts/pull/31) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+2. ❌ Closed PR [#30](https://github.com/sairanjit/credo-ts/pull/30) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+3. ❌ Closed PR [#29](https://github.com/sairanjit/credo-ts/pull/29) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+4. ❌ Closed PR [#27](https://github.com/sairanjit/credo-ts/pull/27) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+5. ❌ Closed PR [#28](https://github.com/sairanjit/credo-ts/pull/28) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
