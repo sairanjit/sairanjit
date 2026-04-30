@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/sairanjit/credo-rest-grafana/pull/1) in [sairanjit/credo-rest-grafana](https://github.com/sairanjit/credo-rest-grafana)
-2. ❌ Closed PR [#31](https://github.com/sairanjit/credo-ts/pull/31) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
-3. ❌ Closed PR [#30](https://github.com/sairanjit/credo-ts/pull/30) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
-4. ❌ Closed PR [#29](https://github.com/sairanjit/credo-ts/pull/29) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
-5. ❌ Closed PR [#27](https://github.com/sairanjit/credo-ts/pull/27) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+1. ❌ Closed PR [#19](https://github.com/sairanjit/credo-ts-examples/pull/19) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+2. ❌ Closed PR [#1](https://github.com/sairanjit/credo-rest-grafana/pull/1) in [sairanjit/credo-rest-grafana](https://github.com/sairanjit/credo-rest-grafana)
+3. ❌ Closed PR [#31](https://github.com/sairanjit/credo-ts/pull/31) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+4. ❌ Closed PR [#30](https://github.com/sairanjit/credo-ts/pull/30) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+5. ❌ Closed PR [#29](https://github.com/sairanjit/credo-ts/pull/29) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
