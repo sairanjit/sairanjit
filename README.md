@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#75](https://github.com/credebl/mobile-sdk/pull/75) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-2. ❌ Closed PR [#19](https://github.com/sairanjit/credo-ts-examples/pull/19) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
-3. ❌ Closed PR [#1](https://github.com/sairanjit/credo-rest-grafana/pull/1) in [sairanjit/credo-rest-grafana](https://github.com/sairanjit/credo-rest-grafana)
-4. ❌ Closed PR [#31](https://github.com/sairanjit/credo-ts/pull/31) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
-5. ❌ Closed PR [#30](https://github.com/sairanjit/credo-ts/pull/30) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+1. 💪 Opened PR [#77](https://github.com/credebl/mobile-sdk/pull/77) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+2. 💪 Opened PR [#75](https://github.com/credebl/mobile-sdk/pull/75) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+3. ❌ Closed PR [#19](https://github.com/sairanjit/credo-ts-examples/pull/19) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+4. ❌ Closed PR [#1](https://github.com/sairanjit/credo-rest-grafana/pull/1) in [sairanjit/credo-rest-grafana](https://github.com/sairanjit/credo-rest-grafana)
+5. ❌ Closed PR [#31](https://github.com/sairanjit/credo-ts/pull/31) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
