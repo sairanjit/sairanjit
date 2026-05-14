@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/credebl/mobile-sdk/pull/77) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-2. 💪 Opened PR [#75](https://github.com/credebl/mobile-sdk/pull/75) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-3. ❌ Closed PR [#19](https://github.com/sairanjit/credo-ts-examples/pull/19) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
-4. ❌ Closed PR [#1](https://github.com/sairanjit/credo-rest-grafana/pull/1) in [sairanjit/credo-rest-grafana](https://github.com/sairanjit/credo-rest-grafana)
-5. ❌ Closed PR [#31](https://github.com/sairanjit/credo-ts/pull/31) in [sairanjit/credo-ts](https://github.com/sairanjit/credo-ts)
+1. 🗣 Commented on [#61](https://github.com/credebl/mobile-sdk/issues/61#issuecomment-4448125998) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+2. 🔒 Closed issue [#61](https://github.com/credebl/mobile-sdk/issues/61) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+3. 🗣 Commented on [#60](https://github.com/credebl/mobile-sdk/issues/60#issuecomment-4448125031) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+4. 🔒 Closed issue [#60](https://github.com/credebl/mobile-sdk/issues/60) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+5. 🗣 Commented on [#64](https://github.com/credebl/mobile-sdk/issues/64#issuecomment-4448123848) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
