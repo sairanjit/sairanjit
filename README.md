@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/credebl/mobile-sdk/issues/61#issuecomment-4448125998) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-2. 🔒 Closed issue [#61](https://github.com/credebl/mobile-sdk/issues/61) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-3. 🗣 Commented on [#60](https://github.com/credebl/mobile-sdk/issues/60#issuecomment-4448125031) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-4. 🔒 Closed issue [#60](https://github.com/credebl/mobile-sdk/issues/60) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-5. 🗣 Commented on [#64](https://github.com/credebl/mobile-sdk/issues/64#issuecomment-4448123848) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+1. 💪 Opened PR [#54](https://github.com/GLEIF-IT/vlei-trainings/pull/54) in [GLEIF-IT/vlei-trainings](https://github.com/GLEIF-IT/vlei-trainings)
+2. 🗣 Commented on [#61](https://github.com/credebl/mobile-sdk/issues/61#issuecomment-4448125998) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+3. 🔒 Closed issue [#61](https://github.com/credebl/mobile-sdk/issues/61) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+4. 🗣 Commented on [#60](https://github.com/credebl/mobile-sdk/issues/60#issuecomment-4448125031) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+5. 🔒 Closed issue [#60](https://github.com/credebl/mobile-sdk/issues/60) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
