@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#104](https://github.com/credebl/mobile-sdk/pull/104) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-2. 💪 Opened PR [#104](https://github.com/credebl/mobile-sdk/pull/104) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-3. 🎉 Merged PR [#102](https://github.com/credebl/mobile-sdk/pull/102) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-4. 💪 Opened PR [#102](https://github.com/credebl/mobile-sdk/pull/102) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-5. 🎉 Merged PR [#101](https://github.com/credebl/mobile-sdk/pull/101) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+1. 💪 Opened PR [#389](https://github.com/WebOfTrust/signify-ts/pull/389) in [WebOfTrust/signify-ts](https://github.com/WebOfTrust/signify-ts)
+2. 🎉 Merged PR [#104](https://github.com/credebl/mobile-sdk/pull/104) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+3. 💪 Opened PR [#104](https://github.com/credebl/mobile-sdk/pull/104) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+4. 🎉 Merged PR [#102](https://github.com/credebl/mobile-sdk/pull/102) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+5. 💪 Opened PR [#102](https://github.com/credebl/mobile-sdk/pull/102) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
