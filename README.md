@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#112](https://github.com/credebl/mobile-sdk/pull/112) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-2. ℹ️ Assigned PR [#32](https://github.com/credebl/mediator-agent/pull/32) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-3. 💪 Opened PR [#32](https://github.com/credebl/mediator-agent/pull/32) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
-4. 🎉 Merged PR [#389](https://github.com/WebOfTrust/signify-ts/pull/389) in [WebOfTrust/signify-ts](https://github.com/WebOfTrust/signify-ts)
-5. 💪 Opened PR [#389](https://github.com/WebOfTrust/signify-ts/pull/389) in [WebOfTrust/signify-ts](https://github.com/WebOfTrust/signify-ts)
+1. 🎉 Merged PR [#113](https://github.com/credebl/mobile-sdk/pull/113) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+2. ❌ Closed PR [#112](https://github.com/credebl/mobile-sdk/pull/112) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+3. 💪 Opened PR [#113](https://github.com/credebl/mobile-sdk/pull/113) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+4. 💪 Opened PR [#112](https://github.com/credebl/mobile-sdk/pull/112) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+5. ℹ️ Assigned PR [#32](https://github.com/credebl/mediator-agent/pull/32) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
