@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#113](https://github.com/credebl/mobile-sdk/pull/113) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-2. ❌ Closed PR [#112](https://github.com/credebl/mobile-sdk/pull/112) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-3. 💪 Opened PR [#113](https://github.com/credebl/mobile-sdk/pull/113) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-4. 💪 Opened PR [#112](https://github.com/credebl/mobile-sdk/pull/112) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-5. ℹ️ Assigned PR [#32](https://github.com/credebl/mediator-agent/pull/32) in [credebl/mediator-agent](https://github.com/credebl/mediator-agent)
+1. 🎉 Merged PR [#25](https://github.com/sairanjit/credo-ts-examples/pull/25) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+2. 💪 Opened PR [#25](https://github.com/sairanjit/credo-ts-examples/pull/25) in [sairanjit/credo-ts-examples](https://github.com/sairanjit/credo-ts-examples)
+3. 🎉 Merged PR [#113](https://github.com/credebl/mobile-sdk/pull/113) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+4. ❌ Closed PR [#112](https://github.com/credebl/mobile-sdk/pull/112) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+5. 💪 Opened PR [#113](https://github.com/credebl/mobile-sdk/pull/113) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
