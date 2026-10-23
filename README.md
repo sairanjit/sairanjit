@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/GLEIF-IT/vlei-trainings/pull/55) in [GLEIF-IT/vlei-trainings](https://github.com/GLEIF-IT/vlei-trainings)
-2. 🎉 Merged PR [#54](https://github.com/GLEIF-IT/vlei-trainings/pull/54) in [GLEIF-IT/vlei-trainings](https://github.com/GLEIF-IT/vlei-trainings)
-3. ❌ Closed PR [#2035](https://github.com/walt-id/waltid-identity/pull/2035) in [walt-id/waltid-identity](https://github.com/walt-id/waltid-identity)
-4. 🎉 Merged PR [#113](https://github.com/credebl/mobile-sdk/pull/113) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
-5. ❌ Closed PR [#112](https://github.com/credebl/mobile-sdk/pull/112) in [credebl/mobile-sdk](https://github.com/credebl/mobile-sdk)
+1. ℹ️ Assigned PR [#77](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/77) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
+2. ℹ️ Reopened PR [#2](https://github.com/sairanjit/vlei-verifier-workflows/pull/2) in [sairanjit/vlei-verifier-workflows](https://github.com/sairanjit/vlei-verifier-workflows)
+3. ❌ Closed PR [#2](https://github.com/sairanjit/vlei-verifier-workflows/pull/2) in [sairanjit/vlei-verifier-workflows](https://github.com/sairanjit/vlei-verifier-workflows)
+4. 💪 Opened PR [#77](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/77) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
+5. ❌ Closed PR [#1](https://github.com/sairanjit/vlei-verifier-workflows/pull/1) in [sairanjit/vlei-verifier-workflows](https://github.com/sairanjit/vlei-verifier-workflows)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
