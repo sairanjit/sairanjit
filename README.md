@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#77](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/77) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
-2. ℹ️ Reopened PR [#2](https://github.com/sairanjit/vlei-verifier-workflows/pull/2) in [sairanjit/vlei-verifier-workflows](https://github.com/sairanjit/vlei-verifier-workflows)
-3. ❌ Closed PR [#2](https://github.com/sairanjit/vlei-verifier-workflows/pull/2) in [sairanjit/vlei-verifier-workflows](https://github.com/sairanjit/vlei-verifier-workflows)
-4. 💪 Opened PR [#77](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/77) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
-5. ❌ Closed PR [#1](https://github.com/sairanjit/vlei-verifier-workflows/pull/1) in [sairanjit/vlei-verifier-workflows](https://github.com/sairanjit/vlei-verifier-workflows)
+1. 🎉 Merged PR [#2](https://github.com/sairanjit/vlei-verifier-workflows/pull/2) in [sairanjit/vlei-verifier-workflows](https://github.com/sairanjit/vlei-verifier-workflows)
+2. ℹ️ Assigned PR [#77](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/77) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
+3. ℹ️ Reopened PR [#2](https://github.com/sairanjit/vlei-verifier-workflows/pull/2) in [sairanjit/vlei-verifier-workflows](https://github.com/sairanjit/vlei-verifier-workflows)
+4. ❌ Closed PR [#2](https://github.com/sairanjit/vlei-verifier-workflows/pull/2) in [sairanjit/vlei-verifier-workflows](https://github.com/sairanjit/vlei-verifier-workflows)
+5. 💪 Opened PR [#77](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/77) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
