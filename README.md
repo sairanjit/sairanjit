@@ -4,11 +4,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/78) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
-2. ℹ️ Assigned PR [#78](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/78) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
-3. 💪 Opened PR [#78](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/78) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
-4. 🎉 Merged PR [#77](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/77) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
-5. 💪 Opened PR [#3](https://github.com/sairanjit/vlei-verifier-workflows/pull/3) in [sairanjit/vlei-verifier-workflows](https://github.com/sairanjit/vlei-verifier-workflows)
+1. ❌ Closed PR [#13](https://github.com/ayanworks/credo-ethr-module/pull/13) in [ayanworks/credo-ethr-module](https://github.com/ayanworks/credo-ethr-module)
+2. 🎉 Merged PR [#78](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/78) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
+3. ℹ️ Assigned PR [#78](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/78) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
+4. 💪 Opened PR [#78](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/78) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
+5. 🎉 Merged PR [#77](https://github.com/GLEIF-IT/vlei-verifier-workflows/pull/77) in [GLEIF-IT/vlei-verifier-workflows](https://github.com/GLEIF-IT/vlei-verifier-workflows)
 <!--END_SECTION:activity-->
 
 ## 🌐 Socials:
